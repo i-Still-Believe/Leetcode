@@ -19,3 +19,8 @@ for i in A:
 a = ([(1,2),(3,4)],[(5,6),(7,8)])
 print(a)
 print(sum(a,[]))
+
+a = [""]
+print(a[0])
+a = [list(x) for x in a]
+print(a)
