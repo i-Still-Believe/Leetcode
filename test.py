@@ -24,3 +24,6 @@ a = [""]
 print(a[0])
 a = [list(x) for x in a]
 print(a)
+
+a = {1:2, 3:4}
+print(a.keys())
