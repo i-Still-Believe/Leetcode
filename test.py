@@ -28,5 +28,7 @@
 # a = {1:2, 3:4}
 # print(a.keys())
 
-intervals = [[7,3],[2,6],[8,10],[15,18]]
-print(sorted(intervals, key=lambda t:t[1]))
+# intervals = [[7,3],[2,6],[8,10],[15,18]]
+# print(sorted(intervals, key=lambda t:t[1]))
+
+print(len([0]))
