@@ -31,4 +31,8 @@
 # intervals = [[7,3],[2,6],[8,10],[15,18]]
 # print(sorted(intervals, key=lambda t:t[1]))
 
-print(len([0]))
+# print(len([0]))
+
+a = [3,5,7]
+a=enumerate(a)
+print(list(a))
