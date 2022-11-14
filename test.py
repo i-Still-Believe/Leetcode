@@ -36,3 +36,8 @@
 a = [3,5,7]
 a=enumerate(a)
 print(list(a))
+for i in range(0,-1,-1):
+    print(i)
+
+stack = [1,2,3,4]
+print(stack.pop())
